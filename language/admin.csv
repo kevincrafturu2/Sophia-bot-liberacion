@@ -1,0 +1,8 @@
+key,es-ES,en-US
+TEXT_CHANNEL_WAS_EXPECTED,Se esperaba un canal de texto,A text channel was expected
+EMBED_COMMAND_USED,Comando embed usado,Embed command used
+ENTER_A_VALID_IMAGE_URL,Introduce una url de imagen válida,Please enter a valid image url
+SEND_EMBED_USING_EVERYONE?,¿Deseas que el embed lo envie usando everyone?,Do you want the embed to send it using everyone?
+WITH_EVERYONE,Con everyone,Whit everyone
+WITHOUT_EVERYONE,Sin everyone,Without everyone
+YOUR_MESSAGE_SENDED,Tu mensaje ha sido enviado,Your message has been sended

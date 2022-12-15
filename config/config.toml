@@ -1,0 +1,32 @@
+# ruta main (web)
+route = '/'
+
+# api token
+api_token = 'Fcxzq1cgyXka8EdiEAshjtw,L3fWMntBfcl9SxBgobYCXOyW4S'
+
+# Mi token
+token = 'ODY0OTMwMTU2ODU3Nzg2Mzg4.GBLNWY.8MBVcAWyUvwfCNxoxV5jH7INQmPfsMkOmPGayo'
+
+# Mi ID
+owner = ["795127511204888596", "342382341185994757", "910543706489237544", "795360779237851167", "892492008269168641"]
+
+# Coneccion a mongo
+MongoDB_URL = "mongodb+srv://sophiauser:otFJOnzjCP0lSgVy@cluster0.p0yum.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+
+# Tiempo minimo para eliminar mensajes
+deleteTime = "5000"
+
+# ID del canal para el guildCreate
+serverID = '915230633280823336'
+
+# ID del Bot
+botId = '883045683605676142'
+
+# channels Report
+report_channel = '900017404443263036' # la id se puede cambiar
+
+# Servidor de soporte 
+supportID = '878037227005968414'
+
+# Rol usa sophia
+rolID = '910330549757943838'

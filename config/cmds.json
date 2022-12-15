@@ -1,0 +1,430 @@
+[
+	{
+		"name": "deletechannel",
+		"category": "Administration"
+	},
+	{
+		"name": "say",
+		"category": "Administration"
+	},
+	{
+		"name": "sayembed",
+		"category": "Administration"
+	},
+	{
+		"name": "tell",
+		"category": "Administration"
+	},
+	{
+		"name": "deletewelcome",
+		"category": "Configuration"
+	},
+	{
+		"name": "removemuterol",
+		"category": "Configuration"
+	},
+	{
+		"name": "deletewelcome",
+		"category": "Configuration"
+	},
+	{
+		"name": "set-suggest",
+		"category": "Configuration"
+	},
+	{
+		"name": "antilinks",
+		"category": "Configuration"
+	},
+	{
+		"name": "antispam",
+		"category": "Configuration"
+	},
+	{
+		"name": "setmodlogs",
+		"category": "Configuration"
+	},
+	{
+		"name": "setmuterol",
+		"category": "Configuration"
+	},
+	{
+		"name": "setprefix",
+		"category": "Configuration"
+	},
+	{
+		"name": "setstaffrol",
+		"category": "Configuration"
+	},
+	{
+		"name": "setwelcome",
+		"category": "Configuration"
+	},
+	{
+		"name": "slowmode",
+		"category": "Configuration"
+	},
+	{
+		"name": "8ball",
+		"category": "Diversion"
+	},
+	{
+		"name": "activity",
+		"category": "Diversion"
+	},
+	{
+		"name": "palabras",
+		"category": "Diversion"
+	},
+	{
+		"name": "avatar",
+		"category": "Diversion"
+	},
+	{
+		"name": "bang",
+		"category": "Diversion"
+	},
+	{
+		"name": "calculadora",
+		"category": "Diversion"
+	},
+	{
+		"name": "marketgame",
+		"category": "Diversion"
+	},
+	{
+		"name": "geotexto",
+		"category": "Diversion"
+	},
+	{
+		"name": "highfive",
+		"category": "Diversion"
+	},
+	{
+		"name": "love",
+		"category": "Diversion"
+	},
+	{
+		"name": "mc-skin",
+		"category": "Diversion"
+	},
+	{
+		"name": "mcstatus",
+		"category": "Diversion"
+	},
+	{
+		"name": "memes",
+		"category": "Diversion"
+	},
+	{
+		"name": "pat",
+		"category": "Diversion"
+	},
+	{
+		"name": "ppt",
+		"category": "Diversion"
+	},
+	{
+		"name": "tictactoe",
+		"category": "Diversion"
+	},
+	{
+		"name": "yt-comment",
+		"category": "Diversion"
+	},
+	{
+		"name": "add-money",
+		"category": "Economy"
+	},
+	{
+		"name": "bal",
+		"category": "Economy"
+	},
+	{
+		"name": "buy",
+		"category": "Economy"
+	},
+	{
+		"name": "create-item",
+		"category": "Economy"
+	},
+	{
+		"name": "crime",
+		"category": "Economy"
+	},
+	{
+		"name": "dep",
+		"category": "Economy"
+	},
+	{
+		"name": "item-info",
+		"category": "Economy"
+	},
+	{
+		"name": "inventario",
+		"category": "Economy"
+	},
+	{
+		"name": "pay",
+		"category": "Economy"
+	},
+	{
+		"name": "remove-item",
+		"category": "Economy"
+	},
+	{
+		"name": "rob",
+		"category": "Economy"
+	},
+	{
+		"name": "shop",
+		"category": "Economy"
+	},
+	{
+		"name": "use",
+		"category": "Economy"
+	},
+	{
+		"name": "with",
+		"category": "Economy"
+	},
+	{
+		"name": "work",
+		"category": "Economy"
+	},
+	{
+		"name": "help",
+		"category": "Information"
+	},
+	{
+		"name": "help2",
+		"category": "Information"
+	},
+	{
+		"name": "ping",
+		"category": "Information"
+	},
+	{
+		"name": "quizrecords",
+		"category": "Information"
+	},
+	{
+		"name": "reportbug",
+		"category": "Information"
+	},
+	{
+		"name": "viewconfig",
+		"category": "Information"
+	},
+	{
+		"name": "ban",
+		"category": "Moderation"
+	},
+	{
+		"name": "clear-warnings",
+		"category": "Moderation"
+	},
+	{
+		"name": "clear",
+		"category": "Moderation"
+	},
+	{
+		"name": "kick",
+		"category": "Moderation"
+	},
+	{
+		"name": "mute",
+		"category": "Moderation"
+	},
+	{
+		"name": "remove-warn",
+		"category": "Moderation"
+	},
+	{
+		"name": "tempmute",
+		"category": "Moderation"
+	},
+	{
+		"name": "unmute",
+		"category": "Moderation"
+	},
+	{
+		"name": "warn",
+		"category": "Moderation"
+	},
+	{
+		"name": "warnings",
+		"category": "Moderation"
+	},
+	{
+		"name": "anal",
+		"category": "NSFW"
+	},
+	{
+		"name": "blowjob",
+		"category": "NSFW"
+	},
+	{
+		"name": "boobs",
+		"category": "NSFW"
+	},
+	{
+		"name": "classic",
+		"category": "NSFW"
+	},
+	{
+		"name": "cumarts",
+		"category": "NSFW"
+	},
+	{
+		"name": "cumsluts",
+		"category": "NSFW"
+	},
+	{
+		"name": "ero",
+		"category": "NSFW"
+	},
+	{
+		"name": "erofeet",
+		"category": "NSFW"
+	},
+	{
+		"name": "erokemonomimi",
+		"category": "NSFW"
+	},
+	{
+		"name": "erokitsune",
+		"category": "NSFW"
+	},
+	{
+		"name": "eroneko",
+		"category": "NSFW"
+	},
+	{
+		"name": "eroyuri",
+		"category": "NSFW"
+	},
+	{
+		"name": "feet",
+		"category": "NSFW"
+	},
+	{
+		"name": "feetgif",
+		"category": "NSFW"
+	},
+	{
+		"name": "femdom",
+		"category": "NSFW"
+	},
+	{
+		"name": "futanari",
+		"category": "NSFW"
+	},
+	{
+		"name": "gasm",
+		"category": "NSFW"
+	},
+	{
+		"name": "girlsolo",
+		"category": "NSFW"
+	},
+	{
+		"name": "girlsologif",
+		"category": "NSFW"
+	},
+	{
+		"name": "hentai",
+		"category": "NSFW"
+	},
+	{
+		"name": "nsfw-holo",
+		"category": "NSFW"
+	},
+	{
+		"name": "holoero",
+		"category": "NSFW"
+	},
+	{
+		"name": "nsfw-kemonomimi",
+		"category": "NSFW"
+	},
+	{
+		"name": "keta",
+		"category": "NSFW"
+	},
+	{
+		"name": "kitsune",
+		"category": "NSFW"
+	},
+	{
+		"name": "kuni",
+		"category": "NSFW"
+	},
+	{
+		"name": "lesbian",
+		"category": "NSFW"
+	},
+	{
+		"name": "nsfw-neko",
+		"category": "NSFW"
+	},
+	{
+		"name": "nsfw-nekogif",
+		"category": "NSFW"
+	},
+	{
+		"name": "pussy",
+		"category": "NSFW"
+	},
+	{
+		"name": "pussyart",
+		"category": "NSFW"
+	},
+	{
+		"name": "pussywankgif",
+		"category": "NSFW"
+	},
+	{
+		"name": "randomhentaigif",
+		"category": "NSFW"
+	},
+	{
+		"name": "tits",
+		"category": "NSFW"
+	},
+	{
+		"name": "trap",
+		"category": "NSFW"
+	},
+	{
+		"name": "yuri",
+		"category": "NSFW"
+	},
+	{
+		"name": "blockchannel",
+		"category": "Premium"
+	},
+	{
+		"name": "removeblockchannel",
+		"category": "Premium"
+	},
+	{
+		"name": "infobot",
+		"category": "Utility"
+	},
+	{
+		"name": "invite",
+		"category": "Utility"
+	},
+	{
+		"name": "qr",
+		"category": "Utility"
+	},
+	{
+		"name": "check",
+		"category": "Utility"
+	},
+	{
+		"name": "suggest",
+		"category": "Utility"
+	}
+]
